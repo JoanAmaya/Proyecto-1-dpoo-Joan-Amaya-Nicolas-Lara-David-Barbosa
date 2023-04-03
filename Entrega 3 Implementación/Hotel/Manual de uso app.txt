@@ -1,0 +1,12 @@
+Este Manual se hace con el fin de dar a entender como se usa la aplicación, 
+Algunos prints y aclaraciones también estan en la parte superior del archivo.
+El archivo se ejecuta desde UI.
+En un principio debe iniciar un admin y las contraseñas y usuarios deben revisarse en el archivo Users.txt
+Los usuarios solo son los de ese archivo
+Tal como dice el pdf hay 3 tipos de Usuarios (Admin, Empleado y recepcionista) no entendemos porque la rubrica de BN dice "cliente" como usuario
+si el pdf jamás lo enuncia.
+Al ejecutar las opciones de carga de archivos debe tener en cuenta que la ruta es src/NombreArchivo.txt.
+Las horas se dan de la forma HH:mm:ss una forma erronea provoca un error en la aplicación.
+Deben cargarse los platos y crear grupos de lo contrario si inicia con un usuario tipo employee le dira que no se ha creado nada.
+Debera usar el Logout con el fin de cambiar de usuario para por ejemplo ir del consumo de un servicio al checkout.
+Consideramos que el resto es intuitivo.
