@@ -1,0 +1,24 @@
+Salmón a la parrilla con salsa de eneldo, 18:00:00, 22:00:00, 29000, Restaurante del hotel Habitación
+Risotto de hongos, 13:00:00, 15:00:00, 16500, Restaurante del hotel Habitación
+Pollo al curry con arroz basmati, 12:00:00, 14:00:00, 19500, Restaurante del hotel; Habitación
+Sopa de calabaza asada, 17:00:00, 21:00:00, 9000, Restaurante del hotel Habitación
+Ensalada de quinoa y aguacate, 12:30:00, 14:30:00, 15000, Restaurante del hotel; Habitación
+Lomo de cerdo con puré de manzana, 18:30:00, 21:30:00, 22500, Restaurante del hotel; Habitación
+Tagliatelle con salsa de setas, 12:00:00, 14:00:00, 17500, Restaurante del hotel
+Tacos de camarón con guacamole, 18:00:00, 22:00:00, 27000, Restaurante del hotel; Área de la piscina del hotel.
+Ensalada de remolacha y queso de cabra, 12:30:00, 14:30:00, 13000, Restaurante del hotel; Habitación
+Filete de res con papas fritas, 18:00:00, 22:00:00, 32500, Restaurante del hotel; Habitación
+Pechuga de pollo a la plancha con verduras al vapor, 12:00:00, 14:00:00, 18500, Restaurante del hotel; Habitación
+Fettuccine Alfredo con pollo a la parrilla, 13:00:00, 15:00:00, 20500, Restaurante del hotel; Habitación
+Pescado blanco con ensalada de mango y aguacate, 19:00:00, 22:00:00, 25000, Restaurante del hotel; Habitación
+Espaguetis a la carbonara, 13:00:00, 15:00:00, 16500, Restaurante del hotel
+Pollo con salsa de limón y arroz integral, 12:00:00, 14:00:00, 19500, Restaurante del hotel; Habitación
+Sopa de lentejas con chorizo, 17:00:00, 21:00:00, 9000, Restaurante del hotel; Habitacion
+Ensalada de pollo y mango con vinagreta de cilantro, 12:30:00, 14:30:00, 15000, Restaurante del hotel; Habitación
+Costillas de cerdo con salsa barbacoa, 18:30:00, 21:30:00, 22500, Restaurante del hotel; Habitación
+Arroz frito con camarones y vegetales, 12:00:00, 14:00:00, 17500, Restaurante del hotel; Habitación
+Ensalada César con pollo a la parrilla, 18:00:00, 22:00:00, 27000, Restaurante del hotel; Área de la piscina del hotel.
+Pizza Margherita, 12:30:00, 14:30:00, 13000, Restaurante del hotel; Habitación
+Filete de salmón con salsa de limón y perejil, 18:00:00, 22:00:00, 32500, Restaurante del hotel; Habitación
+Pechuga de pollo rellena de queso y espinacas, 12:00:00, 14:00:00, 18500, Restaurante del hotel; Habitación
+Ensalada de frutas frescas, 13:00:00, 15:00:00, 10500, Restaurante del hotel; Habitación

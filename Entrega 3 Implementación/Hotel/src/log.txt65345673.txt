@@ -1,0 +1,10 @@
+La factura total es de 
+el huesped con nombre joan con consumo de 0.0
+el huesped con nombre logan con consumo de 19754.0
+Subtotal Neto: 100.0
+Total: 119.0000057220459=================================================
+Risotto de hongos: 16500
+=================================================
+Subtotal Neto: 16500.0
+Total: 19635.0
+=================================================El total de la factura es de: 40058.0
