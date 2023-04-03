@@ -100,7 +100,7 @@ public class ReservaHabitacion
 			break;}	
 		return retorno;
 	}
-	
+	public ArrayList<Habitacion> getHabitaciones(){return habitaciones;}
 	
 	public ArrayList<LocalDate> getIntervaloFechas() {
 		ArrayList<LocalDate> listaFechas = new ArrayList<>();
@@ -154,5 +154,5 @@ public class ReservaHabitacion
 		return precio_base;
 	}
 	
-	public ArrayList<Habitacion> getHabitaciones(){return habitaciones;}
+	
 }
