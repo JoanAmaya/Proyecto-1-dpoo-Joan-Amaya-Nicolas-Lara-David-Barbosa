@@ -1,0 +1,24 @@
+false,suite,200,balcón,50,monday:tuesday:wednesday,10;20;30,123.213;110.220
+false,suitedoble,150,vista,25,wednesday:thursday:friday,15;25;35,123.213
+false,estandar,100,cocina integrada,15,thursday:friday:saturday,5;10;15,123.213;110.220;98.180
+false,suite,250,vista,35,friday:saturday:sunday,20;30;40,160.213;120.210
+false,suitedoble,200,balcón,50,saturday:sunday:monday,10;15;20,123.213
+false,estandar,80,balcón,20,sunday:monday:tuesday,5;10;15,123.213;110.220
+false,suitedoble,180,vista,30,monday:tuesday:wednesday,10;20;30,123.213
+false,suite,300,balcón,75,wednesday:thursday:friday,25;35;45,123.213;110.220
+false,estandar,120,vista,30,thursday:friday:saturday,10;15;20,98.180;110.220;120.210
+false,estandar,90,cocina integrada,20,saturday:sunday:monday,5;10;15,98.180
+false,suite,275,balcón,60,sunday:monday:tuesday,15;25;35,160.213;123.213;110.220
+false,suitedoble,180,vista,30,tuesday:wednesday:thursday,10;20;30,123.213;110.220
+false,estandar,75,vista,20,monday:tuesday:wednesday,5;10;15,98.180
+false,suite,225,balcón,55,wednesday:thursday:friday,20;30;40,160.213;123.213;110.220
+false,suitedoble,175,vista,30,friday:saturday:sunday,10;20;30,123.213
+false,estandar,80,balcón,20,sunday:monday:tuesday,5;10;15,123.213;98.180
+false,suitedoble,190,cocina integrada,25,tuesday:wednesday:thursday,15;25;35,123.213
+false,suite,350,vista,75,thursday:friday:saturday,30;40;50,160.213;123.213;110.220;98.180
+false,estandar,100,cocina integrada,20,saturday:sunday:monday,5;10;15,98.180;110.220
+false,suitedoble,200,balcón,50,monday:tuesday:wednesday,10;20;30,110.220
+false,suite,275,vista,40,wednesday:thursday:friday,25;35;45,160.213
+false,estandar,90,balcón,25,friday:saturday:sunday,10;15;20,123.213;98.180;110.220
+false,suitedoble,175,cocina integrada,30,sunday:monday:tuesday,15;25;35,123.213;110.220
+false,estandar,60,vista,15,tuesday:wednesday:thursday,5;10;15,98.180
