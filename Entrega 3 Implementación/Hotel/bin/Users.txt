@@ -1,0 +1,15 @@
+Carlos;pa$$w0rd;admin
+Laura;s3cur3p@ss;employee
+Pablo;12345abcde;receptionist
+Valentina;mydog123;admin
+Santiago;QWERTYuiop;employee
+Andrea;ilovepizza;admin
+Mateo;b1gb@ngth3ory;employee
+Daniela;chocolover;receptionist
+Luisa;pa$$word123;admin
+Diego;abcde12345;employee
+Martina;iloveflowers;admin
+David;qazxswedc;employee
+Natalia;superman1;receptionist
+Federico;1234567890;admin
+Paula;g0ld3nru13s;employee
